@@ -11,4 +11,6 @@ This is the reference I will use in this research (https://github.com/llefebure/
 
 ## Remarks
 Since data covers Korean media, all outcome presented in Korean  
+
+
 The codes in this folder are still a work in progress. Feel free to suggest any modifications at any time.
